@@ -1,4 +1,4 @@
-// Kontributor Arcade Hub.
+  // Kontributor Arcade Hub.
 //
 // Mau muncul di sini? Tambahkan dirimu lewat Pull Request:
 //   1. Fork repo, edit file ini.
@@ -25,5 +25,12 @@ export const CONTRIBUTORS = [
     web: '',
     bio: 'Peserta Google Cloud Arcade 2026 yang bantu Arcade Hub lewat laporan bug.',
     tags: ['Bug Report'],
+  },
+  {
+    name: 'Edi Pamungkas',
+    github: '',
+    web: '',
+    bio: 'Mahasiswa FMIPA Universitas Negeri Makassar & Peserta Google Cloud Arcade 2026.',
+    tags: ['Programing', 'Teacher'],
   },
 ]
